@@ -31,7 +31,7 @@
     "@octokit/openapi-types": "^18.0.0",
     "@types/node": "^20.3.3",
     "@vercel/ncc": "^0",
-    "prettier": "^2",
+    "prettier": "^3",
     "release-it": "*",
     "typescript": "^5"
   }
