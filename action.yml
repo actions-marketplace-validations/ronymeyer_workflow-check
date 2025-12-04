@@ -17,5 +17,5 @@ outputs:
   foundRunningJob:
     description: 'true if other running jobs have been found, false otherwise'
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'dist/index.js'
