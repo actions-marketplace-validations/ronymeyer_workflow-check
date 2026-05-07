@@ -24,7 +24,7 @@
   "homepage": "https://github.com/ronymeyer/workflow-check/#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@octokit/auth-action": "^4.0.1",
+    "@octokit/auth-action": "^6.0.2",
     "@octokit/rest": "^20.1.1"
   },
   "devDependencies": {
